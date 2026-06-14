@@ -42,7 +42,7 @@ export default function DevLinkHub() {
           alt="Avatar" 
           style={{ width: '100px', height: '100px', borderRadius: '50%', objectFit: 'cover', border: '3px solid #4f46e5' }}
         />
-        <h1 style={{ margin: '10px 0 5px 0', fontSize: '28px', fontWeight: '800', letterSpacing: '1px' }}>ADHI</h1>
+        <h1 style={{ margin: '10px 0 5px 0', fontSize: '28px', fontWeight: '800', letterSpacing: '1px' }}>ADHITHYA S U</h1>
         <p style={{ margin: '0', color: '#4f46e5', fontWeight: '600', fontSize: '14px' }}>⚙️ FULL-STACK LIVE HUB</p>
         
         {/* API Endpoint Badge */}
